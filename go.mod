@@ -1,5 +1,5 @@
-module github.com/t3rm1n4l/go-mega
+module github.com/estorepe/go-mega
 
-require golang.org/x/crypto v0.1.0
+go 1.22.2
 
-go 1.13
+require golang.org/x/crypto v0.26.0
